@@ -1,0 +1,50 @@
+.sidebar{
+  position:fixed;
+  left:0;
+  bottom:0;
+  top:55px;
+  background-color: white;
+  width:72px;
+  z-index:200;
+  padding-top:5px;
+}
+.sl{
+  
+  height:74px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+ flex-direction:column;
+ cursor:pointer;
+}
+.sl:hover{
+  background-color: lightgrey;
+}
+.sl img{
+  height:24px;
+  margin-bottom: 4px;;
+
+}
+.sl div{
+  font-family: Roboto, Arial;
+  font-size: 10px;
+
+}
+.ho{
+  height:50px;
+} 
+.ex{
+  height:50px;
+}
+.su{
+  height:50px;
+}
+.or{
+  height:50px;
+}
+.you{
+  height:50px;
+}
+.li{
+  height:50px;
+}
